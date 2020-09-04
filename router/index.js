@@ -43,7 +43,7 @@ app.get('/', function(req,res,next) {   // 注册
             fname : firstname,
             lname: lastname,
             email: email,
-            password:psw,
+            psw:psw,
             ZP:zp,
             ad:ad,
             phonenumber:phonenumber,
